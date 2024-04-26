@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_2.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_2.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_play_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/play_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bg.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bg.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_2.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_2.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_6.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_6.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/font_arcade.TTF.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/font/arcade.TTF"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bg_over.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bg_over.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_6.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_6.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_play_frame_2.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/play_frame_2.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_play.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/play.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_grass.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/grass.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/raw_increase_score.wav.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/raw/increase_score.wav"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bg_over.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bg_over.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/raw_flap.wav.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/raw/flap.wav"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bg.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bg.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_pipe.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/pipe.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_3.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_3.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_hit_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_hit_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_5.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_5.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_play.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/play.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_7.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_7.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_grass.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/grass.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/raw_play_again.wav.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/raw/play_again.wav"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_pipe.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/pipe.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bg_night.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bg_night.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_hit_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_hit_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_7.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_7.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_hit_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_hit_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_4.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_4.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_hit_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_hit_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_4.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_4.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_play_frame_2.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/play_frame_2.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_play_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/play_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bg_night.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bg_night.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.eduar2tc.flapybird.app-pngs-14:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_5.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_5.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_bird_flying_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/bird_flying_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_bird_flying_frame_3.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/bird_flying_frame_3.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable-v24_play_frame_1.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable-v24/play_frame_1.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/drawable_play_frame_0.png.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/drawable/play_frame_0.png"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/raw_loose.wav.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/raw/loose.wav"
+    },
+    {
+        "merged": "com.eduar2tc.flapybird.app-merged_res-18:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.eduar2tc.flapybird.app-main-20:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
